@@ -9,7 +9,7 @@ float NoiseYaw = 0, NoisePitch  = 0, NoiseRoll = 0 ;
 
 void setup(void) {
   Serial.begin(115200);
-  while (!Serial)n
+  while (!Serial)
     delay(10); 
   Serial.println("Adafruit MPU6050 test!");
   if (!mpu.begin()) {
