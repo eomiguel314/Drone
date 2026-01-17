@@ -4,4 +4,4 @@
 <p>This is a quadcopter with a flight controler based on esp32 with Mpu6050 and BME280....<p/>
 <img src="https://github.com/eomiguel314/Drone/issues/2#issue-3807082545"/>
 
-## PCB of the flight controller
+# PCB of the flight controller
